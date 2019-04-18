@@ -14,7 +14,10 @@
 |รับสมัครน้อง ๆ เข้า Course Pre-Programming<br>(รับสมัครผ่านทาง Google Form)|Pre-Programming รอบ Online<br>(ผ่านระบบ eJudge)|Pre-Programming รอบ Onsite<br>(ณ คณะเทคโนโลยีสารสนเทศ)|
 |Status: `INACTIVE` | Status: `INACTIVE` | Status: `INACTIVE`|
 
-# What is eJudge?![ejudge logo](README/ejudge.png)
+> เปิดรับสมัครเร็ว ๆ นี้
+
+# What is eJudge?
+![ejudge logo](README/ejudge.png)
 
 ระบบ eJudge เป็นระบบ Grader ชนิดหนึ่ง ที่จะรับโปรแกรมของน้อง ๆ มา แล้วรัน โดยการใส่ค่า Input ที่พวกพี่ ๆ ที่ออกโจทย์เขียนเอาไว้ และรับค่า Output ที่ผ่านโปรแกรมนั้น ๆ ออกมา
 โดยระบบจะสามารถเช็คได้ถึง
@@ -51,6 +54,16 @@
 * **Quality** คือ ความเป็นระเบียบของ Code
 * **Total** คือ คะแนนรวมทั้งหมด
 
->
 > เห็นความแตกต่างนั้นมั้ยเอ่ย? 450 กับ 1000 คะแนน? Welcome to the PSIT.
->
+
+# Why Python?
+![prepro logo](README/python-logo.png)
+น้อง ๆ อาจจะไม่เข้าใจ ว่าทำไมเราต้องมาเรียน Python ด้วย ทำไมไม่เรียน C/Java ก่อน หรือ ไม่เรียน Ruby หรือ Swift ก่อน เพื่อเป็นการเรียนวิธีคิด พี่อยากจะบอกข้อดีของ Python ให้น้องฟังครับ
+
+- **Speed** - น้องจะสามารถเขียนภาษานี้ได้เร็ว เพราะเป็นภาษา High Level
+
+- **Integrations** - ระบบต่าง ๆ นั้นรองรับภาษา Python ทั้งหมด หากไม่รองรับ ก็สามารถใช้ Library เพื่อให้มันรองรับได้
+
+- **Compatibility** - ใช้ได้กับทุกแพลตฟอร์มหลัก ๆ เช่น Windows และ UNIX (MacOS & Linux Distribution & Android)
+
+> "Python is easy to learn and use, but powerful enough to tackle even the most difficult problems. It integrates well with existing IT infrastructure, and is very platform independent." - Continuum
