@@ -67,3 +67,19 @@
 - **Compatibility** - ใช้ได้กับทุกแพลตฟอร์มหลัก ๆ เช่น Windows และ UNIX (MacOS & Linux Distribution & Android)
 
 > "Python is easy to learn and use, but powerful enough to tackle even the most difficult problems. It integrates well with existing IT infrastructure, and is very platform independent." - Continuum
+
+# เนื้อหาการเรียนรอบ Online
+
+> ## References
+>
+> ![thinkpython2e](README/think-python.jpg)
+>
+> Python Organizations (Document หลักของ Python)
+> https://docs.python.org/3/
+>
+> Think Python 2e (หนังสือเดียวที่เอาเข้าห้องสอบได้) <br>
+> http://greenteapress.com/thinkpython2/thinkpython2.pdf
+>
+> Python Tutor (Python Cloud Debugger ทำงานทีละบรรทัด)
+> http://www.pythontutor.com
+>
