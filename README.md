@@ -74,12 +74,29 @@
 >
 > ![thinkpython2e](README/think-python.jpg)
 >
-> Python Organizations (Document หลักของ Python)
+> Python Organizations (Document หลักของ Python) <br>
 > https://docs.python.org/3/
 >
 > Think Python 2e (หนังสือเดียวที่เอาเข้าห้องสอบได้) <br>
 > http://greenteapress.com/thinkpython2/thinkpython2.pdf
 >
-> Python Tutor (Python Cloud Debugger ทำงานทีละบรรทัด)
+> Python Tutor (Python Cloud Debugger ทำงานทีละบรรทัด) <br>
 > http://www.pythontutor.com
 >
+
+---
+# การเตรียมตัวก่อน Onsite
+
+## เรียน Onsite
+การเรียน Onsite นี้จะแตกต่างกับรอบ Online ในระดับหนึ่ง เพราะจะเป็นการใช้เครื่องมือที่หลากหลายขึ้น (หรือในท่าที่ยากขึ้น) ต่างจากรอบ Online ที่พี่ ๆ ให้น้อง ๆ ได้ฝึกวาง Algorithm ให้เป็น และใช้เครื่องมือได้
+
+## มา Onsite กันเถอะ
+
+การเรียน Onsite จะเรียนทั้งหมด 4 Week จันทร์ - ศุกร์ เริ่ม วันที่ 10 มิถุนายน ถึง 5 กรกฎาคม 2019 ซึ่งการเรียน Onsite นั้นจัดขึ้นที่คณะเทคโนโลยีสารสนเทศ
+
+การเรียน Onsite ให้ใส่ชุดธรรมดาสุภาพเรียบร้อย
+* เสือยืดหรือเสื้อที่มันสุภาพ ๆ
+* กางเกงขายาว
+* รองเท้าผ้าใบ
+
+>โดยหากมีข้อสงสัย หรือ ต้องการความช่วยเหลือ ติดต่อพี่ ๆ ได้เลยนะครับ
