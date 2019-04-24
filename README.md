@@ -172,3 +172,18 @@
 3. หน้ามหาลัย [อยู่แถวนี้](https://goo.gl/maps/NdyzVqv88iw)
 4. RNP [อยู่แถวนี้](http://bit.ly/2vkF7Wz)
 5. V Condo [อยู่แถวนี้](https://goo.gl/maps/Yr212K2WBxK2)
+
+___
+## Special Thanks
+|<a href="https://www.facebook.com/rawitgun"><img src="https://avatars1.githubusercontent.com/u/31315990" width="100px"></a>|
+|:-:|
+|[@RawitSHIE](https://github.com/rawitshie)|
+
+## Teaching Director
+|<img width="100px" src="README/profile.png">|<img width="100px" src="README/profile.png">|<img width="100px" src="README/profile.png">|<img width="100px" src="README/profile.png">|<img width="100px" src="README/profile.png">|
+|:-:|:-:|:-:|:-:|:-:|
+|Waiting|Waiting|Waiting|Waiting|Waiting|
+
+|<img width="100px" src="README/profile.png">|<img width="100px" src="README/profile.png">|<img width="100px" src="README/profile.png">|<img width="100px" src="README/profile.png">|<img width="100px" src="README/profile.png">|
+|:-:|:-:|:-:|:-:|:-:|
+|Waiting|Waiting|Waiting|Waiting|Waiting|
