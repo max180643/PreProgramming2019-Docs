@@ -180,10 +180,10 @@ ___
 |[@RawitSHIE](https://github.com/rawitshie)|
 
 ## Teaching Director
-|<img width="100px" src="README/profile.png">|<img width="100px" src="README/profile.png">|<img width="100px" src="README/profile.png">|<img width="100px" src="README/profile.png">|<img width="100px" src="README/profile.png">|
+|<img width="100px" src="README/P_Meen.jpg">|<img width="100px" src="README/P_mai.png">|<img width="100px" src="README/P_Pat.JPG">|<img width="100px" src="README/P_Puu.jpg">|<img width="100px" src="README/P_Pee.jpg">|
 |:-:|:-:|:-:|:-:|:-:|
-|Waiting|Waiting|Waiting|Waiting|Waiting|
+|P'Meen|P'Mai|P'Pat|P'Puu|P'Pee|
 
-|<img width="100px" src="README/profile.png">|<img width="100px" src="README/profile.png">|<img width="100px" src="README/profile.png">|<img width="100px" src="README/profile.png">|<img width="100px" src="README/profile.png">|
+|<img width="100px" src="README/P_Pipu.jpg">|<img width="100px" src="README/P_Shine.JPG">|<img width="100px" src="README/P_Win.jpg">|<img width="100px" src="README/P_Mookmix.jpg">|<img width="100px" src="README/P_Ja.jpg">|
 |:-:|:-:|:-:|:-:|:-:|
-|Waiting|Waiting|Waiting|Waiting|Waiting|
+|P'Pipu|P'Shine|P'Win|P'Mookmix|P'Ja|
