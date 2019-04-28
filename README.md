@@ -179,11 +179,17 @@ ___
 |:-:|
 |[@RawitSHIE](https://github.com/rawitshie)|
 
+## Executive Team
+|<img width="100px" src="README/P_ice.JPG">|<img width="100px" src="README/P_Ja.jpg">|
+|:-:|:-:|
+|P'Ice|P'Ja|
+|Chief Executive|Deputy Chief Executive|
+
 ## Teaching Director
 |<img width="100px" src="README/P_Meen.jpg">|<img width="100px" src="README/P_mai.png">|<img width="100px" src="README/P_Pat.JPG">|<img width="100px" src="README/P_Puu.jpg">|<img width="100px" src="README/P_Pee.jpg">|
 |:-:|:-:|:-:|:-:|:-:|
 |P'Meen|P'Mai|P'Pat|P'Puu|P'Pee|
 
-|<img width="100px" src="README/P_Pipu.jpg">|<img width="100px" src="README/P_Shine.JPG">|<img width="100px" src="README/P_Win.jpg">|<img width="100px" src="README/P_Mookmix.jpg">|<img width="100px" src="README/P_Ja.jpg">|
+|<img width="100px" src="README/P_Pipu.jpg">|<img width="100px" src="README/P_Shine.JPG">|<img width="100px" src="README/P_Win.jpg">|<img width="100px" src="README/P_Mookmix.jpg">|<img width="100px" src="README/P_Jab.jpg">|
 |:-:|:-:|:-:|:-:|:-:|
-|P'Pipu|P'Shine|P'Win|P'Mookmix|P'Ja|
+|P'Pipu|P'Shine|P'Win|P'Mookmix|P'Jab|
