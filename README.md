@@ -43,12 +43,12 @@
 |(9/10) x 100  |x5        |100 x 5 x 0        |100%   |90 x 5 x 1 + 0 = 450|
 
 
-หากน้องทำได้ 10 ใน 10 testcase ได้ถูกต้อง และคะแนนต่อข้อ = 100 คะแนน
-และระดับความยาก = 5 และ ทำคุณภาพ code ระดับไม่มีที่ติ
+หากน้องทำได้ 10 ใน 10 testcase ได้ถูกต้อง คะแนนต่อข้อ = 100 คะแนน
+ระดับความยาก = 5 และ ทำคุณภาพ code ระดับไม่มีที่ติ
 
 |Testcase Score|Difficulty|Perfect Bonus score|Quality|Total|
-|:------------:|:--------:|:-----------------:|:-----:|:---:|
-|(10/10) x 100 |x5        |100 x 5 x 2        |100%   |100 x 5 x 1 + 500 = 1000|
+|:------------:|:----------:|:-------------------:|:-------:|:-----:|
+|(10/10) x 100  |x5        |100 x 5 x 2        |100%   |100 x 5 x 1 + 500 = 1000|
 
 > เห็นความแตกต่างนั้นมั้ยเอ่ย? 450 กับ 1000 คะแนน มันต่างกันมากเลยนะครับ
 <br>
@@ -73,6 +73,27 @@
 - **Compatibility** - ใช้ได้กับทุกแพลตฟอร์มหลัก ๆ เช่น Windows และ UNIX (MacOS & Linux Distribution & Android)
 
 > "Python is easy to learn and use, but powerful enough to tackle even the most difficult problems. It integrates well with existing IT infrastructure, and is very platform independent." - Continuum
+---
+
+# Github คืออะไร?
+![github logo](README/github.png)
+  พี่อยากให้น้อง ๆ ทำความรู้จักกับ Github ให้ดี ก่อนการใช้งานจริง ถึงแม้ว่าในคอร์ส Pre-programming นี้ จะไม่ต้องใช้ Github แต่ว่าเมื่อเริ่มเปิดเทอมไปเรียนจริงๆ Github จะเป็นส่วนสำคัญในการทำ Project ของน้อง ๆ เพราะฉะนั้น มาทำความรู้จักกับ Github กันเลยดีกว่า! <br>
+  Github เป็นเว็บบริการพื้นที่ทางอินเทอร์เน็ต (hosting service) สำหรับเก็บการปรับปรุงแก้ไขต่างๆ โดยใช้git ส่วนมากจะใช้จัดเก็บรหัสต้นฉบับ (source code) แต่ยังคงคุณสมบัติเดิมของ git ไว้ ตัวอย่างเช่น การให้สิทธิ์ควบคุมและปรับปรุงแก้ไข และระบบการจัดการรหัสต้นฉบับรวมถึงทาง Github ได้ และยังเพิ่มเติมคุณสมบัติอื่นๆผนวกไว้ด้วย เช่น <br>
+ * การควบคุมการเข้าถึงรหัสต้นฉบับ (access control)
+ * คุณสมบัติด้านความร่วมมือเช่น ติดตามข้อบกพร่อง (bug tracking)
+ * การร้องขอให้เพิ่มคุณสมบัติอื่นๆ (feature requests)
+ * ระบบจัดการงาน (task management)
+ * วิกิสำหรับทุกโครงการ
+
+ถ้ามาถึงตรงนี้แล้วน้อง ๆ ยังไม่เข้าใจ พี่แนะนำให้ คลิ๊กลิงค์ด้านล่างเลย ฮี่ๆ <br>
+https://medium.com/@thanatchakromsang/เรียนรู้-git-และ-github-ฉบับเด็กมหาลัย-7311034c6527 <br>
+หรือถ้าขี้เกียจอ่าน พี่แถมนี่ให้! <br>
+https://www.youtube.com/watch?v=fW2ZF6DMrt0 <br>
+
+ถ้า!!! ถ้ายังไม่เข้าใจอีก น้อง ๆ จะเจอ Github นี้ ในวิชา Information Technology Fundamentals หรือ ITF นั่นเอง <br>
+เพราะฉะนั้นแล้ว ตั้งใจเรียนด้วยนะจ๊ะ เด็กๆ <3
+
+---
 
 # เนื้อหาการเรียนรอบ Online
 
@@ -89,8 +110,11 @@
 > Python Tutor (Python Cloud Debugger ทำงานทีละบรรทัด) <br>
 > http://www.pythontutor.com
 >
+> หนังสือ Python ๑๐๑ (ของจุฬา) <br>
+> https://www.cp.eng.chula.ac.th/books/python101/
 
 ---
+
 # การเตรียมตัวก่อน Onsite
 
 ## เรียน Onsite
