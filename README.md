@@ -12,9 +12,9 @@
 |วันที่ 8 พฤษภาคม - 19 พฤษภาคม 2019|วันที่ 20 พฤษภาคม - 7 มิถุนายน 2019|วันที่ 10 มิถุนายน - 5 กรกฎาคม 2019 |
 |:-------:|:----:|:-------:| 
 |รับสมัครน้อง ๆ เข้า Course Pre-Programming<br>(รับสมัครผ่านทาง Google Form)|Pre-Programming รอบ Online<br>(ผ่านระบบ eJudge)|Pre-Programming รอบ Onsite<br>(ณ คณะเทคโนโลยีสารสนเทศ)|
-|Status: `INACTIVE` | Status: `INACTIVE` | Status: `INACTIVE`|
+|Status: `ACTIVE` | Status: `INACTIVE` | Status: `INACTIVE`|
 
-> เปิดรับสมัครเร็ว ๆ นี้
+> เปิดรับสมัครแล้วนะ link สมัครอยู่ในกลุ่มเฟสนะจ๊ะน้อง ๆ 
 
 # What is eJudge?
 ![ejudge logo](README/ejudge.png)
