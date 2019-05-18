@@ -214,9 +214,9 @@ ___
 |:-:|:-:|:-:|:-:|:-:|
 |P'Meen|P'Mai|P'Pat|P'Puu|P'Pee|
 
-|<img width="100px" src="README/P_Pipu.jpg">|<img width="100px" src="README/P_Shine.JPG">|<img width="100px" src="README/P_Win.jpg">|<img width="100px" src="README/P_Mookmix.jpg">|<img width="100px" src="README/P_Jab.jpg">|
-|:-:|:-:|:-:|:-:|:-:|
-|P'Pipu|P'Shine|P'Win|P'Mookmix|P'Jab|
+|<img width="100px" src="README/P_Pipu.jpg">|<img width="100px" src="README/P_Mookmix.jpg">|<img width="100px" src="README/P_Jab.jpg">|
+|:-:|:-:|:-:|
+|P'Pipu|P'Mookmix|P'Jab|
 
 ## Editor
 |<img width="100px" src="README/P_New.jpg">|<img width="100px" src="README/P_Max.jpg">|
