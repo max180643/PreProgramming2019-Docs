@@ -97,6 +97,14 @@ https://www.youtube.com/watch?v=fW2ZF6DMrt0 <br>
 
 # เนื้อหาการเรียนรอบ Online
 
+|Lesson|Date|Topic|
+|:------------:|:----------:|:-------------------:|
+|1|20 พฤษภาคม - 23 พฤษภาคม 2019|Introduction to Pre-Programming|
+|2|24 พฤษภาคม - 28 พฤษภาคม 2019|Functions|
+|3|29 พฤษภาคม - 2 มิถุนายน 2019|Conditions|
+|4|3 มิถุนายน - 7 มิถุนายน 2019|Loops|
+> วันที่ 25 พฤษภาคม 2019 เปิดคอร์ส eJudge
+
 > ## References
 >
 > ![thinkpython2e](README/think-python.jpg)
