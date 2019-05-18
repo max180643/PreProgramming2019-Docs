@@ -207,7 +207,7 @@ ___
 |<img width="100px" src="README/P_ice.JPG">|<img width="100px" src="README/P_Ja.jpg">|
 |:-:|:-:|
 |P'Ice|P'Ja|
-|President|Vice President|
+|เฮดงาน|รองเฮด|
 
 ## Teaching Director
 |<img width="100px" src="README/P_Meen.jpg">|<img width="100px" src="README/P_mai.png">|<img width="100px" src="README/P_Pat.JPG">|<img width="100px" src="README/P_Puu.jpg">|<img width="100px" src="README/P_Pee.jpg">|
