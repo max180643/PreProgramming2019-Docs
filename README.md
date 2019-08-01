@@ -12,7 +12,7 @@
 |วันที่ 8 พฤษภาคม - 19 พฤษภาคม 2019|วันที่ 20 พฤษภาคม - 7 มิถุนายน 2019|วันที่ 10 มิถุนายน - 5 กรกฎาคม 2019 |
 |:-------:|:----:|:-------:| 
 |รับสมัครน้อง ๆ เข้า Course Pre-Programming<br>(รับสมัครผ่านทาง Google Form)|Pre-Programming รอบ Online<br>(ผ่านระบบ eJudge)|Pre-Programming รอบ Onsite<br>(ณ คณะเทคโนโลยีสารสนเทศ)|
-|Status: `CLOSED` | Status: `CLOSED` | Status: `ACTIVE`|
+|Status: `CLOSED` | Status: `CLOSED` | Status: `CLOSED`|
 
 > ปิดรับสมัครแล้ว! น้อง ๆ คนไหนที่สนใจจะเรียนให้ติดต่อพี่ ๆ เลยนะครับ 
 
